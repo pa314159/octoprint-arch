@@ -50,7 +50,7 @@ source=("${pkgname}-${pkgver}.tar.gz::https://github.com/OctoPrint/OctoPrint/arc
 		octoprint.conf
 		)
 options=(!distcc !ccache)
-sha256sums=('7b0447d33b7b593f096a9b9da02244f659a21d0d9bab14f7625e6d04be41a0c7'
+sha256sums=('c76fd29ea1b27acee774474db200000e5778a17790595afc63fd54a43dee100c'
             'bd9b7f989aefb02da1ac414f306861f21f084d886f0283eea11516482b407d65'
             'b07af51817cd209cdf019d6347ce5d62121ccbf20835dad8bb8316a80bc82346'
             '231685e84b0241a466766c766f8d3ba31efda3238f19e9adedea380e7b861737'
